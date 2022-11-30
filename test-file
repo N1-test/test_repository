@@ -1,1 +1,3 @@
-test-file created
+name = input()
+
+print(f'Hello {name}')
